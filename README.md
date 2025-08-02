@@ -37,6 +37,18 @@ Soy un apasionado por la tecnología y el desarrollo de software. Actualmente es
 
 - 💈 **[Sistema de citas para barbería]**  
   Proyecto académico en el que estoy trabajando un modelo de base de datos y un sistema de gestión de citas.
+  
+- 📝 **[Blog personal - Frontend](https://github.com/iAndresTM/blog-proyecto-blog-personal)**  
+  Sitio web estático para compartir artículos, pensamientos y recursos de desarrollo personal y profesional.
+
+- 📰 **[Noticias - Frontend](https://github.com/iAndresTM/noticias-frontend)**  
+  Interfaz web donde compartir noticias, con diseño responsive y filtros por categoría.
+
+- ☕ **[Tienda de café - Frontend](https://github.com/iAndresTM/shop-cafe)**  
+  E-commerce básico enfocado en productos de café. Diseño atractivo, catálogo de productos y carrito de compras simulado.
+
+- 👕 **[Tienda de ropa - Frontend](https://github.com/iAndresTM/tienda-ropa)**  
+  Página de tienda virtual con catálogo, fichas de productos, y diseño moderno adaptable a dispositivos móviles.
 
 - 🛠️ Más en camino… ¡sigo construyendo!
 
