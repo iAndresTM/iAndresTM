@@ -38,7 +38,7 @@ Soy un apasionado por la tecnología y el desarrollo de software. Actualmente es
 - 💈 **[Sistema de citas para barbería]**  
   Proyecto académico en el que estoy trabajando un modelo de base de datos y un sistema de gestión de citas.
   
-- 📝 **[Blog personal - Frontend](https://github.com/iAndresTM/blog-proyecto-blog-personal)**  
+- 📝 **[Blog personal - Frontend](https://github.com/iAndresTM/proyecto-blog-personal)**  
   Sitio web estático para compartir artículos, pensamientos y recursos de desarrollo personal y profesional.
 
 - 📰 **[Noticias - Frontend](https://github.com/iAndresTM/noticias-frontend)**  
