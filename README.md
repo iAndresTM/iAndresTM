@@ -6,7 +6,7 @@
 # 👋 ¡Hola! Soy Andrés David Torres Márquez
 
 🎓 Tecnólogo en Análisis y Desarrollo de Software (en formación)  
-📍 Necoclí, Antioquia, Colombia  
+📍  Colombia  
 📧 29adt.marquez@gmail.com  
 🐙 [GitHub](https://github.com/iAndresTM) | 💼 [LinkedIn](https://www.linkedin.com/in/andres-torres-1913a3270/)
 
